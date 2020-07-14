@@ -152,4 +152,10 @@ function ReactUseEffect4() {
   );
 }
 
-export { ReactUseEffect1, ReactUseEffect2, ReactUseEffect3, ReactUseEffect4 };
+export {
+  ReactUseEffect1,
+  ReactUseEffect2,
+  ReactUseEffect3,
+  ReactUseEffect4,
+  useFetch,
+};
